@@ -1,0 +1,4 @@
+interface ListModelInterface
+{
+    getNotes(): Note[];
+}

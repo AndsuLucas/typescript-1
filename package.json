@@ -1,0 +1,23 @@
+{
+  "name": "typescript-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndsuLucas/typescript-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndsuLucas/typescript-1/issues"
+  },
+  "homepage": "https://github.com/AndsuLucas/typescript-1#readme",
+  "dependencies": {
+    "typescript": "^3.9.6"
+  }
+}
